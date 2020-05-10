@@ -1,0 +1,4 @@
+# OMSCS 6290: High Performance Computer Architecture Notes
+These are my notes from taking HPCA during the Spring 2020 semester. The original notes were provided by the class itself. I used them as a base and took additional notes on top of them while watching the lectures and working through problem sets.
+
+**NOTE**: All of the solutions or problem sets included here are solely from the class lectures. **None of them are for graded assignments or tests/quizzes**. I just included them in my notes because sometimes a solution video would skip a step or two while solving a problem and go straight to the answer.
